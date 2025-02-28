@@ -21,5 +21,5 @@ It provides a streamlined interface to manage objectives, track progress, and ac
 
 
 ---
-![Homepage](Create Objective.png)
-![CreateObjective](Create Objective.png)
+![Homepage](HomePage.png)
+![CreateObjective](CreateObjective.png)
